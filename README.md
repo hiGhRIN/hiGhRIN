@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/e9aa755d-8b10-4ae1-a699-a6304835e0da
+
+
 <div id="header" align="center">
   Югославские войны (серб. југосло́венски ратови, хорв. jugoslávenski ratovi, словен. jugoslovanske vojne, алб. luftërat në Jugosllavi) — целая череда маленьких, но очень кровавых войн между сербами, хорватами, боснийцами, словенцами и косовскими албанцами, на территории отдельно взятой балканской страны. В наборе — геноцид, массовые убийства, изнасилования и пр. будни войны. Крайне показательный пример того, что могло бы случиться со всем СССРом, а не только с его окраинами, при определенных обстоятельствах.
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw5MzUyMWVtYzRyeDgwNWdoM24wNDd4bTUxNGYyZG10MjNwd2EyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k4Ed5Tsu6DcbpFnnsl/giphy.webp"/width="1000"/>
