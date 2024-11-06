@@ -34,4 +34,3 @@
   12 апреля 1999 года парламент Союзной Республики Югославии, атакованной НАТО, проголосовал за присоединение республики к союзу России и Белоруссии, но у рассейского парламента в 1999 году были занятия поинтересней. Именно после событий в Косово и бомбежек НАТО в России внезапно кончилась американофилия, но кого это волнует?
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpxdXJ1YmFkb2prdG0ycTFxb2tjeTlmMDUxOGp1Yzl3cjVndWk0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EtmMtOfScIA4jIcEsp/giphy.webp"/width="500"/>
 </div>
-
