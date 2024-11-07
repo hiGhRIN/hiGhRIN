@@ -1,4 +1,4 @@
-[# "Джон, ты уверен, что готов к этому?"
+# "Джон, ты уверен, что готов к этому?"
 
 <div id="header" align="center">
   Югославские войны (серб. југосло́венски ратови, хорв. jugoslávenski ratovi, словен. jugoslovanske vojne, алб. luftërat në Jugosllavi) — целая череда маленьких, но очень кровавых войн между сербами, хорватами, боснийцами, словенцами и косовскими албанцами, на территории отдельно взятой балканской страны. В наборе — геноцид, массовые убийства, изнасилования и пр. будни войны. Крайне показательный пример того, что могло бы случиться со всем СССРом, а не только с его окраинами, при определенных обстоятельствах.
@@ -33,4 +33,4 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdyaGxubWZnbTltZ2JybHNsYzJudTlta2dnY29pcnk1cDJndTBhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qL1c5Z3gt8IPnPme5B/giphy.webp"/width="1000"/>
   12 апреля 1999 года парламент Союзной Республики Югославии, атакованной НАТО, проголосовал за присоединение республики к союзу России и Белоруссии, но у рассейского парламента в 1999 году были занятия поинтересней. Именно после событий в Косово и бомбежек НАТО в России внезапно кончилась американофилия, но кого это волнует?
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpxdXJ1YmFkb2prdG0ycTFxb2tjeTlmMDUxOGp1Yzl3cjVndWk0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EtmMtOfScIA4jIcEsp/giphy.webp"/width="500"/>
-</div>theme=dark&background=000000)]
+</div>
